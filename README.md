@@ -1,8 +1,8 @@
 # 🏆 GitHub Achievements 🏆
 
-## Achievements
+## ✨ Achievements ✨
 
-| Badge | Title | Method | Conform |
+| Badge | Title | Requirement | Conform |
 | --- | --- | --- | --- |
 ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | Heart On Your Sleeve | React to something on GitHub with a ❤️ emoji | ❌ 
 ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | Open Sourcerer | User had PRs merged in multiple public repositories | ❌ 
@@ -17,35 +17,37 @@
 ||| <!-- this empty row is intentional to separate -->
 ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | Public Sponsor | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors) | ✔️ 
 
-## Level
+## ✨ Level ✨
 
-Some Achievements not only have the base version, but also tiers.
-
-| Title | Level | Badge | Earned by |
-| --- | --- | --- | --- |
-Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
-Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
-Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
+| Badge | Requirement |
+| --- | --- |
+<img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
+<img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
+<img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
+<img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
+<img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
+<img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+<img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
+<img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
+<img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
+<img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
+<img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
+<img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 
-## Official list
+## ✨ Highlights Badges ✨
 
-There ~~is~~ was an official list available in the GitHub Docs at  
-<https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link to the archived version](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
-There is still a section which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
+| Badge | Name | How to get |
+| --- | --- | --- |
+| ![pro-black](/images/Highlights/GitHub-Pro/SVG/GitHub-Pro_DarkMode.svg#gh-light-mode-only) ![pro-white](images/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only) | Pro | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
+| ![developer-program-member-dark](/images/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg#gh-dark-mode-only)![developer-program-member-light](/images/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_DarkMode.svg#gh-light-mode-only) | Developer Program Member | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](/images/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](images/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_DarkMode.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
+| ![github-campus-expert-dark](/images/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only)![github-campus-expert-light](/images/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
+| ![security-advisory-credit-dark](/images/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only)![security-advisory-credit-light](/images/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_DarkMode.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
 
-~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
 
-## Details
+
+## ✨ Details ✨
 
 ### Specifics on how to achieve
 
