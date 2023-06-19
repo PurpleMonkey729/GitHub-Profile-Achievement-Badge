@@ -45,13 +45,8 @@
 | ![github-campus-expert-dark](/images/Highlights/GitHub-Campus-Expert_LightMode.svg)| GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
 | ![security-advisory-credit-dark](/images/Highlights/Security-Advisory-Credit_LightMode.svg) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
 
-
-
-## ✨ Discussion ✨
+## ✨ Detail ✨
 
 [Discussions](https://github.com/PurpleMonkey729/Github-Achievement/discussion) is the best method to get the correct answer.
 
-## See also
-
-* [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) for a laugh about the Achievements
-* [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)
+If you want to see more, [let's go!](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)
